@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on automation projects and building automation apps projects / 
       Je collabore beaucoup avec les agences cherchants à automatiser leurs routines de travail, leurs tâches pénibles et à optimiser leurs process.
 - 📫 How to reach me ... / Comment me contacter : 
---> Mail : tainaedouard.pro@gmail.com
+--> Mail : taina@teost.dev
 --> Tel : +33 781044608
 
 <!---
